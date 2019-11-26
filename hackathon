@@ -1,0 +1,19 @@
+Prioridade dos Riscos
+1	Indefinição das plataformas (navegadores, etc) para acesso via central e WEB
+2	Integração com o módulo financeiro existente
+3	Dimensionamento do acesso simultâneo dos usuários
+
+Equipe necessária: 2 programadores e 1 desenvolvedor para interface gráfica do usuário
+Serão realizadas 4 entregas, cada entrega custará R$ 6000,00 e serão entregues a cada 15 dias.
+
+Na 1º entrega: serão fornecidos os módulos de cadastro de alunos, professores, treinos, modalidades de aulas, bem como, as funcionalidades
+de inclusão, edição e exclusão de cadastro. Será apresentada uma interface gráfica inicial.
+
+Na 2º entrega: nessa etapa serão fornecidos alguns dos requisitos para alunos, professores e o administrador
+(consultas e emissão de relatórios). E também o módulo de comunicação entre alunos e professores.
+
+Na 3º entrega: nessa etapa será fornecido o módulo para acompanhamento dos exames periódicos, com os devidos cadastro de médicos, exames, e
+também a agenda WEB (acessadas pelo médico) e as consultas realizadas pelo aluno.
+
+Na 4º entrega: será fornecido o módulo financeiro que permitirá as consultas dos alunos e emissão de relatórios pelo administrador.
+
